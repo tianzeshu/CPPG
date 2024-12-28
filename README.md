@@ -1,4 +1,22 @@
-# Personalized Soft Prompt Tuning in Pre-trained Language Models:Bridging Multitask Transfer Learning and Crowdsourcing Learning
+# Personalized Soft Prompt Tuning in Pre-trained Language Models: Bridging Multitask Transfer Learning and Crowdsourcing Learning
+
+Welcome to the official repository for our paper **"Personalized Soft Prompt Tuning in Pre-trained Language Models: Bridging Multitask Transfer Learning and Crowdsourcing Learning."**
+
+![Figure: High-level overview of our approach](Figure.png)
 
 ## Overview
-The code for our experiments and models will be released in this repository after the paper is accepted for publication. 
+This repository contains the source code used in our work. We have **uploaded the initial version of the code**; it will continue to evolve as we refine our approach and incorporate new features.
+
+## Paper and Citation
+If you use our approach in your research, please cite our work using the following BibTeX entry:
+
+```bibtex
+@article{tian2024personalised,
+  title={Personalised soft prompt tuning in pre-trained language models: Bridging multitask transfer learning and crowdsourcing learning},
+  author={Tian, Zeshu and Zhang, Hongli and Wang, Yan},
+  journal={Knowledge-Based Systems},
+  volume={305},
+  pages={112646},
+  year={2024},
+  publisher={Elsevier}
+}
