@@ -1,0 +1,25 @@
+seed: 1
+
+bart_name: "/root/bart-large"
+dataset_name: conll2003
+device: cuda:0
+
+num_epochs: 20
+batch_size: 32
+learning_rate: 2e-5
+warmup_ratio: 0.01
+eval_begin_epoch: 0
+src_seq_ratio: 0.6
+tgt_max_len: 10
+num_beams: 1
+length_penalty: 1
+
+use_prompt: True
+prompt_len: 10
+prompt_dim: 800
+
+freeze_plm: True
+learn_weights: True
+save_path: "./save/"
+load_path: null
+notes: ''
