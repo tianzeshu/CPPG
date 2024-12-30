@@ -5,7 +5,7 @@ Welcome to the official repository for our paper **"Personalized Soft Prompt Tun
 ![Figure: High-level overview of our approach](Figure.png)
 
 ## Overview
-This repository contains the source code used in our work. We have **uploaded the initial version of the code**; it will continue to evolve as we refine our approach and incorporate new features.
+This repository contains the source code used in our work. We have **uploaded the initial version of the code**; it will continue to evolve as we refine our approach and incorporate new features. If you have any questions, please feel free to contact us.
 
 ## Paper and Citation
 If you use our approach in your research, please cite our work using the following BibTeX entry:
